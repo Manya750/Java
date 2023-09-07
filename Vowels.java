@@ -2,10 +2,9 @@ package string;
 
 public class Vowels {
 
-	public static void main(String[] args) {
-		
+	public static void main(String[] args)
+	{
 		int count=0;
-		// TODO Auto-generated method stub
 		String str = "Chinnaswamimuttuswamivenkteshwarayiyer";
 		for(int i=0;i<str.length();i++)
 			{
